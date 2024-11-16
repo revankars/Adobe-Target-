@@ -1,5 +1,14 @@
 # README: Automation Script for File Processing, Uploading, and Archiving
 
+# Automating the File Upload Process to Adobe Target: A Simplified Script for Efficient Data Management
+
+In the world of continuous data flow projects, automation plays a crucial role in streamlining workflows and reducing errors. One task that can be easily automated is the upload of product data to Adobe Target’s recommendation system. To simplify this process, we’ve developed a script that automates everything from file processing to uploading the data to the FTP server. This guide explains how the script works and how it can help save time and reduce manual effort.
+
+## The Need for Automation
+
+When managing large datasets like product catalogs, it’s essential to keep the data up-to-date in systems like Adobe Target. In our project, we recognized that manually handling the data upload would be time-consuming and prone to errors. To solve this challenge, we created a script that automates the conversion of product information into Adobe Target’s required recommendation file format. This ensures that data is accurate, up-to-date, and uploaded in a timely manner, without the risk of duplication.
+
+
 ## How the Script Helps
 
 The script automates several key tasks to streamline the process of preparing and uploading product data to an FTP server:
